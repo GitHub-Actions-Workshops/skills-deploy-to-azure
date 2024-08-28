@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace gabrielalibudzka with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: gabrielalibudzka-ttt-app
+  AZURE_WEBAPP_NAME: gabrielalibudzka-2-ttt-app
 
 jobs:
   setup-up-azure-resources:
